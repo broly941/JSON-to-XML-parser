@@ -1,0 +1,35 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "birthday": "1975-01-31",
+    "spouse": {
+        "firstName": "Mary",
+        "lastName": "Smith"
+    },
+    "addresses": [
+        {
+            "description": "home",
+            "street": "123 Peachtree Ln",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": 30305
+        },
+        {
+            "description": "work",
+            "street": "456 Peachtree St",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": 30305
+        }
+    ],
+    "phoneNumbers": [
+        {
+            "description": "home",
+            "number": "404-555-1234"
+        },
+        {
+            "description": "mobile",
+            "number": "678-555-1234"
+        }
+    ]
+}

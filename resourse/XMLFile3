@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Name>Humpty</Name>
+  <Age>18</Age>
+  <Alive>true</Alive>
+  <Siblings>Dracula</Siblings>
+  <Siblings>Snow White</Siblings>
+  <Siblings>Merlin</Siblings>
+  <Posts>
+    <Title>How I fell</Title>
+    <Comments>
+      <User>Fairy God Mother</User>
+      <Comment>Ha, can&#x27;t say I didn&#x27;t see it coming</Comment>
+    </Comments>
+  </Posts>
+</root>

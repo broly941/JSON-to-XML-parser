@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <firstName>John</firstName>
+  <lastName>Smith</lastName>
+  <birthday>1975-01-31</birthday>
+  <spouse>
+    <firstName>Mary</firstName>
+    <lastName>Smith</lastName>
+  </spouse>
+  <addresses>
+    <description>home</description>
+    <street>123 Peachtree Ln</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <postalCode>30305</postalCode>
+  </addresses>
+  <addresses>
+    <description>work</description>
+    <street>456 Peachtree St</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <postalCode>30305</postalCode>
+  </addresses>
+  <phoneNumbers>
+    <description>home</description>
+    <number>404-555-1234</number>
+  </phoneNumbers>
+  <phoneNumbers>
+    <description>mobile</description>
+    <number>678-555-1234</number>
+  </phoneNumbers>
+</root>
